@@ -1,0 +1,30 @@
+//Intro to salesforce
+
+//create a salesforce developer account, it's recommended to create the account with official mail rather than college ID email
+
+choose the lightning version for theme
+
+// Navigation in salesforce developer:
+
+- all the tabs above are items in the nav bar
+- we'll learn more about objects
+- when we click on More, we can find more navigation tabs in our salesforce portal
+- using Pencil button, we can customize our navigation portal
+add/remove items
+
+//let's create a sales application here
+
+- all accounts are the records
+- thru pencil icon, we can add further items
+- let's say, example: recycle bin, we can add it in the nav bar
+- while creating an app, we can also customize our navigation settings.
+- when we click on the account option, we check the records and details 
+#density settings
+- accounts is an object in nav bar
+- we can create records of our own, 13 records are pre-written
+- we can set our own theme in salesforce, even for each of our application records;
+- we have created our own platform by our email and I am the only owner here
+if we have people who are wiling to collaborate in our project, we can give them access thru Users in quick find
+- while creating a user in salesforce, assigning profile is mandatory: important interview question
+after creating a user, we cannot delete a user
+- we cant delete users, but we can freeze them.
