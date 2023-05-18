@@ -1,0 +1,64 @@
+//Notes on 18th May 2023 
+// Salesforce Administrator
+
+On 17th May we have gone through:
+
+\navigation items
+display density
+difference between salesforce classic and lightning version: 
+classic version cannot be used in mobiles
+Themes and branding
+Users
+from application search, choose Sales
+check all records/accounts
+
+// 18th may Notes
+
+from Home to setup page, go to Object Manager
+all customization can be done in setup page
+
+standard objects and custom objects
+new custom object
+
+Track field history: after creating fields in this object, we can track the data in the fields
+Allow in Chatter Groups: if we wish to communicate to colleagues, we can share our objects to them
+Global search
+One tab visibility: when On, visible to all profiles
+Include tab: we can select Custom Applications
+
+Default fields while creating tab(very Important): 4
+default field: given from the pbject
+last modified by owner
+last modified by
+owner
+
+
+new custom object Tab
+tab style can be anythng
+apply one tab visibility to all profiles
+
+
+Interview question; How can a custom object be represented
+underscore C
+example: student_c
+
+
+- create custom fields through Quick Find
+
+- fields and relationships
+- after creating field only roll No is given, before ones are ignored(possible dev)
+- for mandatory purposes in fields, we have to check the box of Required while creation
+- inline edit option: we can edit the fields which were missed out before creation of new fields
+
+- picklist and multipicklist
+- global pick list value
+- PickList value sets: create a Label, 
+- create the global value picklist set and then setup global piclist and enable it for the field
+- fields need to be unique
+
+
+Sumamry:
+creation of Objects
+creation of Tabs
+creation of Fields
+creation of Fields with different data types

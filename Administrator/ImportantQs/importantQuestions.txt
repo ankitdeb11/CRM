@@ -1,0 +1,6 @@
+18May 2023:
+
+Q1: what are the defult fields while creating a tab
+(Ans: 4, owner, last modified by, last edited, date)
+
+Q2: How are custom objects represented(example: Student_c)
