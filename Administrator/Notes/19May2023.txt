@@ -1,0 +1,42 @@
+// Notes for 19th May 2023
+
+Ways to create Objects: 
+- we can create using Data Import Wizard, for creating objects
+-creat custom from spread sheet, that's the wizard
+- 2nd way, we can create using Schema Builder
+- Schema Builder is like a graph kind of thing-
+top left we have objects, we can scroll down, under Elements in Schema Builder
+
+- we can create relationships in schema builder
+-account has relationship with contact(standard objects)
+- since there is no include tab option in shcema builder objetc, so it was not visible in nav bar
+setup page, then object manager, then schema builder, 
+
+created by, last modified by, owner, label name: 4 default fields
+
+- elements in schema builder, we can create fields from there
+
+- Always required is for mandatory fields, interview Qs
+- once we create fields in any part either from schema builder or custom object, all will be visible
+- when we create our fields, when we put data in it, it's called records
+example: shiva
+tranport was our new object
+
+
+
+Assessments:
+Submission date: monday
+
+https://prnt.sc/OUipjAHrR_G8
+
+
+https://trailhead.salesforce.com/content/learn/projects/get-started-with-tailhead
+
+https://trailhead.salesforce.com/content/learn/modules/salesforce-quick-look-1?trail_id=salesforce_advantage
+
+
+https://trailhead.salesforce.com/content/learn/modules/trailhead_basics
+
+
+https://trailhead.salesforce.com/content/learn/modules/starting_force_com?trail_id=force_com_admin_beginner&trailmix_creator_id=ntbalanarayan&trailmix_slug=admin-basics
+
