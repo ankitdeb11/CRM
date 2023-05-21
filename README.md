@@ -6,4 +6,4 @@
 ### World's #1 CRM Platform in terms of: 
 ### • Transparency • Compliance • Security • Scalability • Performance • Privacy
 
-#### Salesforce's 5 Core values: • Trust • Customer Success • Innovation • Equality • Sustainability
+### Salesforce's 5 Core values: • Trust • Customer Success • Innovation • Equality • Sustainability
