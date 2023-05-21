@@ -1,0 +1,27 @@
+// Important points to keep in mind to crack Salesforce Certification Exam:
+
+Master in:
+
+- Automation:
+Process Builder, Approval Process, Workflow, Flows, 
+
+- Data Security 
+Org Level Security, Object Level Security, Field Level Security, Record Level Security
+Difference between Object Level and Record Level Security and when to apply both.
+Profiles Restrict and Permission Sets open up the accesses.
+Sharing Roles, Role Hierarchy 
+
+- Data Modelling 
+Relationships, specially Master Detail Relationships
+Formulas, Validation Rules, Formula Fields, Cross Object Formula Fields
+Record Types is an important topic in Data Modelling
+
+- Data Import and Export or Data Management
+Difference between Insert, Update and Upsert
+Unique ID, External IDs, Record IDs, differences in IDs
+
+- Standard Objects
+Leads, Accounts, Contacts, Oppurtunities, Products, Cases, Solutions, Knowledge, Content and so many more
+Functionality and Usage of these products should be known well.
+
+Have practical hands-on sessions of each of these objects, perform different functionalities, etc
