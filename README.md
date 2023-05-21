@@ -5,3 +5,5 @@
 ### Salesforce is a cloud-based software company that provides businesses with tools that help them find more prospects, close more deals, and provide a higher level of service to their customers.
 ### World's #1 CRM Platform in terms of: 
 ### • Transparency • Compliance • Security • Scalability • Performance • Privacy
+
+### Salesforce's 5 Core values: • Trust • Customer Success • Innovation • Equality • Sustainability
