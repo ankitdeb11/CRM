@@ -1,0 +1,129 @@
+//Notes on 22 May 2023
+
+- Field dependencies
+- 
+
+go for student object, 
+we have fields there, branch is having picklist
+for auto numbers, click on Rollno and edit it
+
+
+due to needs, we wish to change from auto number to another data type
+changing it to picklist, field label changing it to reg numbers
+creating values for the piclist such as CSE and ECE and MEC
+
+now we will try to create field dependencies
+
+objects, then fields and relationships, then field dependencies, new button
+control fields and dependent field
+
+control fields are main fields
+from control fields we can take care of dependent fields
+
+if u missed adding any pick list value, go to ur picklist and then click on edit
+go to regNo, then simply go there, find values, click on New
+
+if u wish to change the order, click on re-Order
+ as per ur requirement
+
+we can also check previews
+
+if we wish to change the layout of our new records creation, we can customize it with the help of page layouts
+
+for each customization, go to setup page
+go to to student object
+go to page layouts
+
+
+field dependencies
+they are filters that allows us to change the contents of a picklist based on the values of anotehr field
+
+dependent field
+controlled field
+
+dependent field is limited to just 1 time, for any controlled field
+but control fields can be more
+
+if it is global picklist, the dependent field might be shown more than 1 time
+
+learn about relationships now
+
+
+realtionships
+look up realtionships
+master detail relationships
+
+important Q: what is the relationship between accounts and contacts
+
+accounts and contacts is under look up relationship
+but cascade = true
+
+
+master is nothing but parent and detail is nothing but child
+
+parent child relationship
+
+we cant create master detailed relationship in standard object
+why we create relationships between two c objects:
+if the student is having some faculty, so faculty should be assigned
+so that's the reason we are having relationships
+
+
+another 
+point: in master detailed relationship, if we delete a record in parent, the record in child object also will be deleted
+this is the meaning of cascade true
+
+
+student is the detailed object
+faculty is the master object
+
+
+
+the field which we are giving relationship to is master object
+the object where we are creating field is detail
+
+
+
+go to setup page
+give realtionship between custom objects
+
+
+for creating records with new relationships, make sure we delete the old records
+
+
+field name as assigned faculty
+
+error: https://prnt.sc/oPDzg6iDwVvw
+convert our look up fields and then change to master detailed relationship
+
+
+improve as a dev: create delete all records option
+
+
+related list label means assigned faculty
+go for save
+
+already existing records were there, so it was not allowing us to create master detailed relationship
+
+have deleted in 
+
+
+mai point is what is the relationship between accounts and contacts
+look up rlntship but cascade=true, and it's a special relationship
+
+
+if we delete a record in parent, the record in child object also be deleted and vice versa
+
+object manager, students, fields and realtionshps, then go for New
+important point: we can only create only 2 master detailed reltionships for 1 object
+
+
+
+go for mech, then go to related, 
+
+
+field realtionships
+relationships in salesforce
+
+
+https://prnt.sc/y-R4Giy0sxHz topics of today
