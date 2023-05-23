@@ -1,6 +1,7 @@
 //Notes on 22 May 2023
 
 - Field dependencies
+got to setup page, go to object manager, go to field dependencies then fields and relationships
 - 
 
 go for student object, 
@@ -36,7 +37,7 @@ go to page layouts
 
 
 field dependencies
-they are filters that allows us to change the contents of a picklist based on the values of anotehr field
+they are filters that allows us to change the contents of a picklist based on the values of another field
 
 dependent field
 controlled field
@@ -57,6 +58,8 @@ important Q: what is the relationship between accounts and contacts
 
 accounts and contacts is under look up relationship
 but cascade = true
+
+cascade = true means, if master is deleted then the detail record will also be deleted
 
 
 master is nothing but parent and detail is nothing but child

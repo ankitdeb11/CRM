@@ -1,0 +1,84 @@
+//Notes on 23 May 2023
+
+yesterday we have discussed:
+field dependencies
+master-detail relationship
+
+today we will create a new application
+
+2nd point = tightly coupled realtionship because master is realted to detail, they depend on each other
+- accounts and contacts, important realtionship
+- since relationship is look up relationship, and cascade=true
+- so if we delete a record in contacts, it will not be deleted vice versa wise
+- master detailed relationship can be for 2 times
+
+// look up relationship
+- is a kind of losely coupled relationship
+
+
+- 2nd point: as in master detail, cascade = true
+- it doesn't affect the relationships between 2 objects
+- no record is deleted in the relationship of objects
+- no effect of record deletion between objects
+cascade = false here
+
+
+
+important Question: where is recycle bin, it is found in app launcher
+
+
+// for relationships, we will go to setup page
+- look up relationships can be created 40 times
+- for master-detail is 2
+- for an object
+- in look up relationship, we have required option to select
+- related list label
+
+
+if we have made look up relationship in same object which had master, we have to delete all the master detailed relationship first and then see for look ups
+
+student and faculty new relationship is created, look up one
+
+
+where we can find recycle bin in salesforce platform: 
+
+app creation in salesforce:
+setup page, go to app manager in quick find, new lightning app, 
+
+standard applications are already inbuilt
+
+
+navigationstyle
+standard nav and console nav
+
+
+
+classic version has only desktop
+lightning has both such as dekstop and phone
+
+utility items are like the cahtter fields, notes, rich text
+
+we can add objects while creating new application
+
+
+transport doesn't come because it didn't have tab option
+
+compulsary we have to select profiles, system admin must be made, it doesnt come by default
+
+
+if u want to edit the app, go to app manager in home through quick find
+click on edit
+
+
+app manager manages all the applications, we can customize everything there
+
+
+model link:
+
+https://trailhead.salesforce.com/content/learn/modules/lightning_app_builder
+
+lightning app builder creates pages
+new pages
+
+remove assignments will delete the pages made by lightning app builder
+
