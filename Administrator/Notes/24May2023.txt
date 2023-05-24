@@ -1,0 +1,78 @@
+// notes on 24th May 2023
+
+lookup relationship
+accounts and contacts relationship?
+Recycle bin in app launcher
+App creation app.anger in setuppage
+
+
+
+
+we will see profile creation today
+
+while creating a user, assigning profile is mandatory
+
+
+accountant, security guards, professors or teachers, 
+policies will be different for each profile
+
+
+profile: baseline permission given to a user to objects and applications(important question)
+
+
+
+where we can 
+
+setup page
+
+go to quick find and search profiles
+
+we cannot create a profile
+but we can clone profiles but we wont be able to create them
+
+due to licenses, 
+
+we can check licenses thru compan information
+if we take subscription and increase our licenses, we can attemp to create profiles
+right now our licenses dont allow us to craete profiles
+
+
+salesform platform user has 3 licences
+
+
+
+creating a salesforce platform user, 1 out of 3 licenses
+salesfrom platform
+
+customize the access powers of ur crated profile : vit manager
+in setup and allow permissions
+
+gave permission in custom object permissions
+read, creat, edit, delete, modify all, view all
+
+
+by clicking active button, we can enable login button
+
+we cannot see other apps in ramesh because he has access only in vit management app but not other apps
+
+we can enable login access poilicy and enable it 
+
+
+ramesh and suresh are having same profiles vit manager
+
+we can give extra permissions to suresh
+
+for providing extra access to users: if we want to give access to the user for objects and applications and we have permission sets. 
+
+permission sets: they are granting extra access to Users individually 
+
+
+-> if we want to give some extra access to the user for objects and applications without any change in baseline permissions of profile then we create permission sets and assign it to the User
+
+(very very important question)
+
+we assign permission sets to Users only, not to profiles
+setup page> then permission sets > tehn transport permission
+
+
+we can create master detail from custom to standard 
