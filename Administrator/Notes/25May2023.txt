@@ -1,0 +1,63 @@
+//notes on 25th may 2023
+
+profiles might be removed from salesforce it seems
+only permission sets will be there 
+
+objects fields
+3 ways to create objects
+spreadsheet, schema builder, custom object creator
+ 
+object manager has schema builder
+
+look up is blue
+master detail is red
+
+validation rules:
+
+joining date should be smaller than passout date
+
+joining date field should be created, 
+
+setup page, in object manager, we have validation rules
+recycle bin can be found in app launcher
+
+if we delete a record, how many days it will stay
+(very important question) 15 days will be stored, after that they will be deleted
+
+student history track
+
+// set history tracking
+tracks all the fields
+in fields and relationships, we can click set history tracking
+
+go to app, go to students, check the records, click on 1 of the records, how many times the user is changing teh values will be shown in related
+
+
+
+but it wont be shown there because we need to change a few settings in page layout
+we will go to setup page and then page layout
+
+go to page layouts, then go to Edit
+see all the options
+add student history in all the below pages and click on save
+
+
+
+//validation rules
+//student field joining date> field passout date
+//set history tracking
+
+
+//audit trail
+set history tracking isonly for recording history in fields
+audit trail is for org history
+
+we have to go to view setup audit trail in quick find in setup
+
+select related lists in page layouts, here we will find student history
+
+password policies for password validation
+
+we use password policies for the users which we create, giving access to the users
+
+login access policies 

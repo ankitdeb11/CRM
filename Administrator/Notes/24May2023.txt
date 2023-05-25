@@ -19,7 +19,7 @@ policies will be different for each profile
 
 profile: baseline permission given to a user to objects and applications(important question)
 
-
+baseline permissions: create, write, edit, delete
 
 where we can 
 
