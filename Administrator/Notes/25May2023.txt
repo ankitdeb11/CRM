@@ -50,7 +50,7 @@ add student history in all the below pages and click on save
 
 //audit trail
 set history tracking isonly for recording history in fields
-audit trail is for org history
+audit trail is for org history/platform history
 
 we have to go to view setup audit trail in quick find in setup
 

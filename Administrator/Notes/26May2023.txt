@@ -1,0 +1,37 @@
+//notes on 26th May 2023
+
+roll Up summary field - master details relationship between them
+gives the total count of the records, minimum records numbers and the number of maximum records
+
+
+before creating roll up summary field, there should be master detail relationship
+
+student(detailed object) and faculty(master)
+
+
+only some records 
+
+select roll up types: count 
+count: how many count of records will be displayed as in teh form of number ina field in faculty 
+sum: show the sum of the records, not just IT faculty
+min and Max: minimum values are present on this field
+
+visible to all users, then save
+
+did we create the 
+
+we created the roll up from master object
+
+https://prnt.sc/EUKPheA-co94
+
+custom object quick look trailhead
+
+
+
+https://trailhead.salesforce.com/content/learn/modules/create-a-custom-object-quick-look
+
+data modelling in trailhead
+
+global search in trailhead
+
+work wit schema builder
