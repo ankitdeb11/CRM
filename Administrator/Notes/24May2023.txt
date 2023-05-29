@@ -3,7 +3,7 @@
 lookup relationship
 accounts and contacts relationship?
 Recycle bin in app launcher
-App creation app.anger in setuppage
+App creation app manager in setuppage
 
 
 
