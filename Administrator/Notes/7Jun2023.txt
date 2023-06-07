@@ -1,0 +1,63 @@
+//Notes on 7th of June 2023
+
+Data Import Wizard
+and Data Loader
+Data Migration tools in 
+
+data import wizard can insert data from excel sheets 
+insert, update, upsert the data
+
+
+main difference between Data loader and data import wizard:
+we cannot export data using data import wizard but we can do both in data loader
+
+data loader: update, upsert, delete, export the data
+
+where can we find data import and data loader:
+quick find box in home page
+
+
+Report and Dashboards:
+
+
+from App Launcher we can find reports here 
+we can also find dashboards here
+
+
+VIT management org
+VIT Accounts report: only 2 reports
+
+we will go with the standard apps
+we will go with the custom object application also(example vit management)
+
+information that we will be getting in 1 specific place: Reports
+
+Reports - 4 types of Reports:
+1) Tabular Report
+2) Summary Report
+3) Matrix Report
+4) Joined Report
+
+
+the records which are there in the accounts, i wanna create a record
+
+so click on New in Reports
+New Report
+Choose Report Type
+since we want only for accounts, we click on the Account option and we click Start Report
+use the Filter option, use Show Me Option, use All Accounts option and click on apply
+
+we can even add Filter there by ourselves
+
+only Columns have been given, we did not give any kind of rows
+Tabular report doesnt support chats
+
+tabular report only have columns but dont have rows
+add chart option is not available in tabular report
+
+created the "Today Accounts Report"
+
+how do we add charts in the report?
+
+
+Dashboard is the pictorial representation of the report
