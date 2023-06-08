@@ -1,0 +1,25 @@
+//notes on 8th june
+
+4 reports:
+tabular, summary, matrix, joined report
+
+Dashboards
+
+admin content, reports and dashboards are very important for admin topics
+pictorial representation of report data
+
+should complete admin superset
+
+Automation tools:
+approval process(important topic)
+work flows
+process builder
+Flows
+
+above all of em are called as automation tools in salesforce
+
+work flows and process builder and flows are the most advancced automation tools
+
+//create a custom object of leave approvals, set up all its leave type fields, etc
+
+use approval processes from quick search
