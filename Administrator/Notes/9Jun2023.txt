@@ -1,0 +1,32 @@
+//notes on 9 June 2023
+
+//topics discussed:
+
+data migration tools
+automation process
+work flows
+
+action types in process builders
+
+
+admin superset complete it
+superbadges and super sets
+
+complete business admin superbadge
+
+by the end of this internship, complete this super badge
+
+admin superset LinK:
+
+https://trailhead.salesforce.com/content/learn/superbadges/superbadge_admin_superset
+
+
+all topics in 4 weeks:
+
+data model:
+
+data security:
+OWD: organization wide default, create, read, edit, delete
+roles, 
+sharing settings, 
+manual settings, 
