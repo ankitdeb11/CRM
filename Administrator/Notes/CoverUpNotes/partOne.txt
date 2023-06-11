@@ -1,0 +1,7 @@
+//notes which were missed for a weeks
+
+where can we find schema builder? (imp)
+Object Manager, we can find our schema builder there
+
+
+//validation rules:
