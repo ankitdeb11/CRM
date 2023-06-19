@@ -1,0 +1,55 @@
+//few of the sample paper mock questions:
+
+//fiscal year settings in Salesforce:
+
+which of the following are correct regarding fiscal year settings?:
+
+-  Once enabled, custom fiscal years can no longer be disabled
+- When the fiscal year start month is changed, quota and adjustment information is purged
+- Custom fiscal years impact forecasts, reports, and quotas
+
+// which of the following settings can be configured from the company settings in setup?
+
+company information, business hours, fiscal year settings
+
+// a user would like to change the language that the user interface is displayed in.
+- advice the user to change the Langauge setting under "My personal Information"
+- change the Language for the user in the user detail page in setup
+
+// resetting passwords when users get locked out of a salesforce org that does not have single sign in enabled through an identity service other than salesforce
+
+
+salesforce admin has 7 million records that need to be loaded into salesforce and wants to do it in one batch. how can the records be uploaded in one batch.
+
+answer: through the third party data loading tools
+
+** data loader can be used to load upto 5 million recorsds but not more than that. the data import wizard can be used to load upto 50k records. there are third party apps available in the app exchange which can load upto more than 5 million
+
+reagrding tasks:
+- each member in a company of the group is assigned a copy of the tasks 
+- group tasks are enabled by default in lightning experience
+
+// in lightning, group tasks can be assigned to upto 200 users and each user will be assigned an independent copy of the task
+
+
+
+//regarding types of reports:
+there are only four types of reports: tabular, summary, matrix and joined.
+
+for mailing list: we have to choose tabular report
+
+a summary report format is used to group rows of data and allows for the display of subtotals. 
+
+A matrix report format is used when there is a need to group data by rows and columns 
+
+A tabular report is a simple list of records with selected columns and is similar to a spreadsheet 
+
+a joined report gives us an idea about the data and allows us to show data that share a relationship with one or more objects
+
+
+
+//regarding the refresh part of dashboards:
+- a user can refresh the dashboard on demand by clicking the refrehs button
+- After a scheduled dashboard refresh, it can be emailed automatically to a group of users
+- A dashboard can be scheduled to refresh daily, weekly, or monthly
+
