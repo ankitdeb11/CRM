@@ -7,3 +7,9 @@
 ### • Transparency • Compliance • Security • Scalability • Performance • Privacy
 
 ### Salesforce's 5 Core values: • Trust • Customer Success • Innovation • Equality • Sustainability
+
+On the month of October 2023, I have also attained the Salesforce Administrator Certification.
+
+![certPic](https://github.com/ankitdeb11/Salesforce-CRM/assets/95062786/06d1d821-a10b-4ebd-99e9-1abd4f00aea8)
+
+
